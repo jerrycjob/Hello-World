@@ -1,4 +1,7 @@
 Hello-World
 ===========
 
-my fisrt github project
+my first github project
+
+the first change  
+
